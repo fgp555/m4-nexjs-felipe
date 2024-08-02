@@ -1,0 +1,3 @@
+.linkNav {
+  @apply text-white hover:text-slate-400 hover:scale-125;
+}
